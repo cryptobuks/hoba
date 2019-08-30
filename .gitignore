@@ -21,4 +21,11 @@ configure
 src/Makefile.in
 config.log
 config.status
+src/config/hoba-config.h
+src/config/hoba-config.h.in
 src/config/stamp-h1
+
+.deps
+Makefile
+*.o
+*.*~*
